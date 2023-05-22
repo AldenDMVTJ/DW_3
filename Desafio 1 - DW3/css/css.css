@@ -1,0 +1,57 @@
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+
+.hdr{
+    background-color: rgb(0, 0, 0);
+    border: 4px rgb(0, 0, 0) solid;
+    border-radius:60px;
+    padding: 15px 0px 15px 20px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    
+}
+
+body{
+    background-color: rgb(49, 100, 66) ;
+    overflow-x: hidden;
+}
+
+h2{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 180%;
+    margin-left: 20px;
+}
+
+h3{
+    font-size:  200%;
+    font-family: 'Dongle', sans-serif;
+    margin: 10px 0px 10px 0px;
+}
+
+
+
+p{
+    font-family: 'Mukta', sans-serif;
+    font-size: 110%;
+}
+
+#lista{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    
+}
+
+#div{
+    border: 1px solid grey;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 0px 100px 50px 100px;
+    width: 250px;
+    
+} */
