@@ -193,7 +193,7 @@ const cantante3 = new Cantante("Brad","Discografia","Genero");
 const cantante4 = new Cantante("Mario","Discografia","Genero");
 const cantante5 = new Cantante("Nacho","Discografia","Genero");
 // Clases: generame 6 cantantes mas
-const cantante6 = new Cantante("");
+const cantante6 = new Cantante({},{},{});
 const cantante7 = new Cantante("");
 
 const cantantes = [
